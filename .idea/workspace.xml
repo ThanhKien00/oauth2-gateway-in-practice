@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f384d992-75f5-4f04-9439-7dfb0a847c87" name="Changes" comment="commit code" />
+    <list default="true" id="f384d992-75f5-4f04-9439-7dfb0a847c87" name="Changes" comment="commit code">
+      <change afterPath="$PROJECT_DIR$/images/api_gateway_architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-services/src/main/java/com/example/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/example/gateway/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/example/gateway/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-services/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-services/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +62,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/ADMIN/OneDrive/Desktop/Master Dev/Java Backend/IntelliJ Workspace/reactive-spring-in-practice",
+    "last_opened_file_path": "C:/Users/ADMIN/OneDrive/Desktop/Master Dev/Java Backend/IntelliJ Workspace/oauth2-gateway-in-practice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,6 +72,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\OneDrive\Desktop\Master Dev\Java Backend\IntelliJ Workspace\oauth2-gateway-in-practice\images" />
+    </key>
+  </component>
   <component name="RunManager" selected="Spring Boot.GatewayApplication">
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="gateway" />
@@ -90,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706889012930</updated>
       <workItem from="1706889013891" duration="2338000" />
-      <workItem from="1706923429921" duration="4428000" />
+      <workItem from="1706923429921" duration="11229000" />
     </task>
     <task id="LOCAL-00001" summary="commit code">
       <option name="closed" value="true" />
@@ -124,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706931895252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit code">
+      <option name="closed" value="true" />
+      <created>1706932179824</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706932179824</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,19 +155,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -157,6 +165,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/gateway" />
       <path value="$PROJECT_DIR$/user-services" />
+      <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="commit code" />
     <option name="LAST_COMMIT_MESSAGE" value="commit code" />
