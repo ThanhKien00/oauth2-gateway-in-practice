@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f384d992-75f5-4f04-9439-7dfb0a847c87" name="Changes" comment="commit code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/gateway/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/example/gateway/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f384d992-75f5-4f04-9439-7dfb0a847c87" name="Changes" comment="commit code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +51,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/ADMIN/OneDrive/Desktop/Master Dev/Java Backend/IntelliJ Workspace/oauth2-gateway-in-practice/auth-server",
+    "last_opened_file_path": "C:/Users/ADMIN/OneDrive/Desktop/Master Dev/Java Backend/IntelliJ Workspace/greethy-backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -135,7 +129,7 @@
       <updated>1706889012930</updated>
       <workItem from="1706889013891" duration="2338000" />
       <workItem from="1706923429921" duration="15067000" />
-      <workItem from="1707013693936" duration="12142000" />
+      <workItem from="1707013693936" duration="12187000" />
     </task>
     <task id="LOCAL-00001" summary="commit code">
       <option name="closed" value="true" />
@@ -209,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707040074702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit code">
+      <option name="closed" value="true" />
+      <created>1707055265148</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707055265148</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
